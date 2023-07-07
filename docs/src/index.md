@@ -4,7 +4,7 @@ CurrentModule = MembranePlotting
 
 # MembranePlotting
 
-Documentation for [MembranePlotting](https://github.com/Carboxylmer/MembranePlotting.jl).
+Documentation for [MembranePlotting](https://github.com/Boxylmer/MembranePlotting.jl).
 
 ```@index
 ```
